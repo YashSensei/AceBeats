@@ -18,7 +18,7 @@ function Login() {
       <div className="flex-1 flex flex-col items-center justify-center p-8">
         <div className="text-center mb-12">
           <h1 className="text-7xl font-bold text-spotify-white mb-4">
-            Spobeats
+            AceBeats
           </h1>
           <p className="text-spotify-grey text-xl">
             Your favorite music, all in one place.
@@ -27,7 +27,7 @@ function Login() {
 
         <div className="bg-spotify-dark-grey rounded-lg p-8 shadow-lg max-w-md w-full">
           <h2 className="text-2xl font-bold text-spotify-white mb-6 text-center">
-            Log in to Spobeats
+            Log in to AceBeats
           </h2>
 
           <div className="space-y-4">
@@ -65,7 +65,7 @@ function Login() {
           </div>
 
           <p className="text-spotify-grey text-sm mt-8 text-center">
-            By logging in, you agree to Spobeats' Terms and Conditions and
+            By logging in, you agree to AceBeats' Terms and Conditions and
             Privacy Policy.
           </p>
         </div>
@@ -73,7 +73,7 @@ function Login() {
 
       <footer className="py-6 text-center text-spotify-grey">
         <p className="text-sm">
-          &copy; {new Date().getFullYear()} Spobeats. All rights reserved.
+          &copy; {new Date().getFullYear()} AceBeats. All rights reserved.
         </p>
       </footer>
     </div>

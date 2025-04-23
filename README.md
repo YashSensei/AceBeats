@@ -1,6 +1,6 @@
-# SpoBEATS - Spotify Clone Application
+# AceBeats - Spotify Clone Application
 
-SpoBEATS is a feature-rich music streaming application that integrates with the Spotify API. This project aims to recreate the Spotify web experience with a clean, responsive UI and core functionality.
+AceBeats is a feature-rich music streaming application that integrates with the Spotify API. This project aims to recreate the Spotify web experience with a clean, responsive UI and core functionality.
 
 ## Features
 
@@ -32,8 +32,8 @@ SpoBEATS is a feature-rich music streaming application that integrates with the 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/spobeats.git
-cd spobeats
+git clone https://github.com/yourusername/acebeats.git
+cd acebeats
 ```
 
 2. Install dependencies:
